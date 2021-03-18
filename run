@@ -1,0 +1,5 @@
+1) Clone this repository
+2) Install the packages using requirements.txt (pip install -r requirements.txt)
+3) Open app.py
+4) Change the bot prefix, and his token
+5) Run!
